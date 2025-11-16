@@ -1,4 +1,4 @@
-# NanoPrep – Simple Text Preprocessing Tool (LLMOps Beginner Project)
+# NanoPrep – Simple Text Preprocessing Tool
 
 NanoPrep is a simple text preprocessing tool designed for beginners learning LLMOps. It performs text cleaning, tokenization, chunking, and dataset reporting on .txt files. The project is intentionally simple, beginner-friendly, and suitable for Week 1 of an LLMOps learning roadmap.
 
